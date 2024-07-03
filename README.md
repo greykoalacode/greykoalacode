@@ -16,5 +16,5 @@ Here is my journey so far:
 ### Languages
 While I try to stay technology agnostic, my experience lies around **Java, Spring Boot, Kafka, Docker, Kubernetes, Javascript, HTML, CSS, React JS, Redux, NodeJS, NextJS, TailwindCSS, Bootstrap, SASS**. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greykoalacode)](https://github.com/anuraghazra/github-readme-stats)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=greykoalacode)](https://github.com/LordDashMe/github-contribution-stats/)
 
