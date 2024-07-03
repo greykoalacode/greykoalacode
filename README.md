@@ -3,7 +3,7 @@
 I am Surya Madhavan, Full stack developer from India. 
 I like to develop things using code. I think of technologies as tools to be equipped and deployed while solving problems. 
 
-Portfolio (Built with NextJS, TailwindCSS): [msurya.in](msurya.in)
+Portfolio (Built with NextJS, TailwindCSS): [msurya.in](https://msurya.in)
 
 Here is my journey so far:
 - 2018 - 2019: Started with Full stack development. Learning courses, creating practice projects (some old repositories here can be ignored 😄)
