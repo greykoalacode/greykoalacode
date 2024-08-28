@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Surya Madhavan, software developer from India. 
+I am Surya Madhavan, software engineer from India. 
 I like to develop things using code. I think of technologies as tools to be equipped and deployed while solving problems. 
 
 Portfolio (Built with NextJS, TailwindCSS): [msurya.in](https://msurya.in)
